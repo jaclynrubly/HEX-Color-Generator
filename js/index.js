@@ -60,7 +60,7 @@ function copy(e) {
   };
 
   function go() {
-    var colors = randomizeHex(6);
+    var colors = randomizeHex(12);
     var time = 1;
     
    
