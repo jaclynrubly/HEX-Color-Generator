@@ -61,7 +61,7 @@ function copy(e) {
 
   function go() {
     var colors = randomizeHex(6);
-    var time = 4;
+    var time = 1;
     
    
     if(bgText.style.display !== 'none') {
